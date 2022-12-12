@@ -12,6 +12,5 @@ plugins/CardsAgainstHumanity/decks/Expansions_Only.dek	https://raw.githubusercon
 plugins/CardsAgainstHumanity/decks/Main_Expansions.dek	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/decks/Main_Expansions.dek	4543208
 plugins/CardsAgainstHumanity/sets/carddata.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/sets/carddata.txt	2934990
 plugins/CardsAgainstHumanity/sets/setimages/cardback.png	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/sets/setimages/cardback.png	-21125
-
 CardGeneralURLs:
 https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/sets/setimages/

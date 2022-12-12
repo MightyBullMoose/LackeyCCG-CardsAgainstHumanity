@@ -1,0 +1,1461 @@
+<deck version="0.8">
+	<meta>
+		<game>cards_against_humanity</game>
+	</meta>
+	<superzone name="Question Pile">
+		<card><name>QUES0099</name><set>1st</set></card>
+		<card><name>QUES0100</name><set>1st</set></card>
+		<card><name>QUES0101</name><set>1st</set></card>
+		<card><name>QUES0102</name><set>1st</set></card>
+		<card><name>QUES0103</name><set>1st</set></card>
+		<card><name>QUES0104</name><set>1st</set></card>
+		<card><name>QUES0105</name><set>1st</set></card>
+		<card><name>QUES0106</name><set>1st</set></card>
+		<card><name>QUES0107</name><set>1st</set></card>
+		<card><name>QUES0108</name><set>1st</set></card>
+		<card><name>QUES0109</name><set>1st</set></card>
+		<card><name>QUES0110</name><set>1st</set></card>
+		<card><name>QUES0111</name><set>1st</set></card>
+		<card><name>QUES0112</name><set>1st</set></card>
+		<card><name>QUES0113</name><set>1st</set></card>
+		<card><name>QUES0114</name><set>1st</set></card>
+		<card><name>QUES0115</name><set>1st</set></card>
+		<card><name>QUES0116</name><set>1st</set></card>
+		<card><name>QUES0117</name><set>1st</set></card>
+		<card><name>QUES0118</name><set>1st</set></card>
+		<card><name>QUES0119</name><set>2nd</set></card>
+		<card><name>QUES0120</name><set>2nd</set></card>
+		<card><name>QUES0121</name><set>2nd</set></card>
+		<card><name>QUES0122</name><set>2nd</set></card>
+		<card><name>QUES0123</name><set>2nd</set></card>
+		<card><name>QUES0124</name><set>2nd</set></card>
+		<card><name>QUES0125</name><set>2nd</set></card>
+		<card><name>QUES0126</name><set>2nd</set></card>
+		<card><name>QUES0127</name><set>2nd</set></card>
+		<card><name>QUES0128</name><set>2nd</set></card>
+		<card><name>QUES0129</name><set>2nd</set></card>
+		<card><name>QUES0130</name><set>2nd</set></card>
+		<card><name>QUES0131</name><set>2nd</set></card>
+		<card><name>QUES0132</name><set>2nd</set></card>
+		<card><name>QUES0133</name><set>2nd</set></card>
+		<card><name>QUES0134</name><set>2nd</set></card>
+		<card><name>QUES0135</name><set>2nd</set></card>
+		<card><name>QUES0136</name><set>2nd</set></card>
+		<card><name>QUES0137</name><set>2nd</set></card>
+		<card><name>QUES0138</name><set>2nd</set></card>
+		<card><name>QUES0139</name><set>2nd</set></card>
+		<card><name>QUES0140</name><set>2nd</set></card>
+		<card><name>QUES0141</name><set>2nd</set></card>
+		<card><name>QUES0142</name><set>2nd</set></card>
+		<card><name>QUES0143</name><set>2nd</set></card>
+		<card><name>QUES0144</name><set>3rd</set></card>
+		<card><name>QUES0145</name><set>3rd</set></card>
+		<card><name>QUES0146</name><set>3rd</set></card>
+		<card><name>QUES0147</name><set>3rd</set></card>
+		<card><name>QUES0148</name><set>3rd</set></card>
+		<card><name>QUES0149</name><set>3rd</set></card>
+		<card><name>QUES0150</name><set>3rd</set></card>
+		<card><name>QUES0151</name><set>3rd</set></card>
+		<card><name>QUES0152</name><set>3rd</set></card>
+		<card><name>QUES0153</name><set>3rd</set></card>
+		<card><name>QUES0154</name><set>3rd</set></card>
+		<card><name>QUES0155</name><set>3rd</set></card>
+		<card><name>QUES0156</name><set>3rd</set></card>
+		<card><name>QUES0157</name><set>3rd</set></card>
+		<card><name>QUES0158</name><set>3rd</set></card>
+		<card><name>QUES0159</name><set>3rd</set></card>
+		<card><name>QUES0160</name><set>3rd</set></card>
+		<card><name>QUES0161</name><set>3rd</set></card>
+		<card><name>QUES0162</name><set>3rd</set></card>
+		<card><name>QUES0163</name><set>3rd</set></card>
+		<card><name>QUES0164</name><set>3rd</set></card>
+		<card><name>QUES0165</name><set>3rd</set></card>
+		<card><name>QUES0166</name><set>3rd</set></card>
+		<card><name>QUES0167</name><set>3rd</set></card>
+		<card><name>QUES0168</name><set>3rd</set></card>
+		<card><name>QUES0169</name><set>4th</set></card>
+		<card><name>QUES0170</name><set>4th</set></card>
+		<card><name>QUES0171</name><set>4th</set></card>
+		<card><name>QUES0172</name><set>4th</set></card>
+		<card><name>QUES0173</name><set>4th</set></card>
+		<card><name>QUES0174</name><set>4th</set></card>
+		<card><name>QUES0175</name><set>4th</set></card>
+		<card><name>QUES0176</name><set>4th</set></card>
+		<card><name>QUES0177</name><set>4th</set></card>
+		<card><name>QUES0178</name><set>4th</set></card>
+		<card><name>QUES0179</name><set>4th</set></card>
+		<card><name>QUES0180</name><set>4th</set></card>
+		<card><name>QUES0181</name><set>4th</set></card>
+		<card><name>QUES0182</name><set>4th</set></card>
+		<card><name>QUES0183</name><set>4th</set></card>
+		<card><name>QUES0184</name><set>4th</set></card>
+		<card><name>QUES0185</name><set>4th</set></card>
+		<card><name>QUES0186</name><set>4th</set></card>
+		<card><name>QUES0187</name><set>4th</set></card>
+		<card><name>QUES0188</name><set>4th</set></card>
+		<card><name>QUES0189</name><set>4th</set></card>
+		<card><name>QUES0190</name><set>4th</set></card>
+		<card><name>QUES0191</name><set>4th</set></card>
+		<card><name>QUES0192</name><set>4th</set></card>
+		<card><name>QUES0193</name><set>4th</set></card>
+		<card><name>QUES0194</name><set>4th</set></card>
+		<card><name>QUES0195</name><set>4th</set></card>
+		<card><name>QUES0196</name><set>4th</set></card>
+		<card><name>QUES0197</name><set>4th</set></card>
+		<card><name>QUES0198</name><set>4th</set></card>
+		<card><name>QUES0199</name><set>5th</set></card>
+		<card><name>QUES0200</name><set>5th</set></card>
+		<card><name>QUES0201</name><set>5th</set></card>
+		<card><name>QUES0202</name><set>5th</set></card>
+		<card><name>QUES0203</name><set>5th</set></card>
+		<card><name>QUES0204</name><set>5th</set></card>
+		<card><name>QUES0205</name><set>5th</set></card>
+		<card><name>QUES0206</name><set>5th</set></card>
+		<card><name>QUES0207</name><set>5th</set></card>
+		<card><name>QUES0208</name><set>5th</set></card>
+		<card><name>QUES0209</name><set>5th</set></card>
+		<card><name>QUES0210</name><set>5th</set></card>
+		<card><name>QUES0211</name><set>5th</set></card>
+		<card><name>QUES0212</name><set>5th</set></card>
+		<card><name>QUES0213</name><set>5th</set></card>
+		<card><name>QUES0214</name><set>5th</set></card>
+		<card><name>QUES0215</name><set>5th</set></card>
+		<card><name>QUES0216</name><set>5th</set></card>
+		<card><name>QUES0217</name><set>5th</set></card>
+		<card><name>QUES0218</name><set>5th</set></card>
+		<card><name>QUES0219</name><set>5th</set></card>
+		<card><name>QUES0220</name><set>5th</set></card>
+		<card><name>QUES0221</name><set>5th</set></card>
+		<card><name>QUES0222</name><set>5th</set></card>
+		<card><name>QUES0223</name><set>5th</set></card>
+		<card><name>QUES0224</name><set>6th</set></card>
+		<card><name>QUES0225</name><set>6th</set></card>
+		<card><name>QUES0226</name><set>6th</set></card>
+		<card><name>QUES0227</name><set>6th</set></card>
+		<card><name>QUES0228</name><set>6th</set></card>
+		<card><name>QUES0229</name><set>6th</set></card>
+		<card><name>QUES0230</name><set>6th</set></card>
+		<card><name>QUES0231</name><set>6th</set></card>
+		<card><name>QUES0232</name><set>6th</set></card>
+		<card><name>QUES0233</name><set>6th</set></card>
+		<card><name>QUES0234</name><set>6th</set></card>
+		<card><name>QUES0235</name><set>6th</set></card>
+		<card><name>QUES0236</name><set>6th</set></card>
+		<card><name>QUES0237</name><set>6th</set></card>
+		<card><name>QUES0238</name><set>6th</set></card>
+		<card><name>QUES0239</name><set>6th</set></card>
+		<card><name>QUES0240</name><set>6th</set></card>
+		<card><name>QUES0241</name><set>6th</set></card>
+		<card><name>QUES0242</name><set>6th</set></card>
+		<card><name>QUES0243</name><set>6th</set></card>
+		<card><name>QUES0244</name><set>6th</set></card>
+		<card><name>QUES0245</name><set>6th</set></card>
+		<card><name>QUES0246</name><set>6th</set></card>
+		<card><name>QUES0247</name><set>6th</set></card>
+		<card><name>QUES0248</name><set>6th</set></card>
+		<card><name>QUES0269</name><set>90's Nostalgia</set></card>
+		<card><name>QUES0270</name><set>90's Nostalgia</set></card>
+		<card><name>QUES0271</name><set>90's Nostalgia</set></card>
+		<card><name>QUES0272</name><set>90's Nostalgia</set></card>
+		<card><name>QUES0273</name><set>90's Nostalgia</set></card>
+		<card><name>QUES0274</name><set>90's Nostalgia</set></card>
+		<card><name>QUES0275</name><set>90's Nostalgia</set></card>
+		<card><name>QUES0001</name><set>Basic</set></card>
+		<card><name>QUES0002</name><set>Basic</set></card>
+		<card><name>QUES0003</name><set>Basic</set></card>
+		<card><name>QUES0004</name><set>Basic</set></card>
+		<card><name>QUES0005</name><set>Basic</set></card>
+		<card><name>QUES0006</name><set>Basic</set></card>
+		<card><name>QUES0007</name><set>Basic</set></card>
+		<card><name>QUES0008</name><set>Basic</set></card>
+		<card><name>QUES0009</name><set>Basic</set></card>
+		<card><name>QUES0010</name><set>Basic</set></card>
+		<card><name>QUES0011</name><set>Basic</set></card>
+		<card><name>QUES0012</name><set>Basic</set></card>
+		<card><name>QUES0013</name><set>Basic</set></card>
+		<card><name>QUES0014</name><set>Basic</set></card>
+		<card><name>QUES0015</name><set>Basic</set></card>
+		<card><name>QUES0016</name><set>Basic</set></card>
+		<card><name>QUES0017</name><set>Basic</set></card>
+		<card><name>QUES0018</name><set>Basic</set></card>
+		<card><name>QUES0019</name><set>Basic</set></card>
+		<card><name>QUES0020</name><set>Basic</set></card>
+		<card><name>QUES0021</name><set>Basic</set></card>
+		<card><name>QUES0022</name><set>Basic</set></card>
+		<card><name>QUES0023</name><set>Basic</set></card>
+		<card><name>QUES0024</name><set>Basic</set></card>
+		<card><name>QUES0025</name><set>Basic</set></card>
+		<card><name>QUES0026</name><set>Basic</set></card>
+		<card><name>QUES0027</name><set>Basic</set></card>
+		<card><name>QUES0028</name><set>Basic</set></card>
+		<card><name>QUES0029</name><set>Basic</set></card>
+		<card><name>QUES0030</name><set>Basic</set></card>
+		<card><name>QUES0031</name><set>Basic</set></card>
+		<card><name>QUES0032</name><set>Basic</set></card>
+		<card><name>QUES0033</name><set>Basic</set></card>
+		<card><name>QUES0034</name><set>Basic</set></card>
+		<card><name>QUES0035</name><set>Basic</set></card>
+		<card><name>QUES0036</name><set>Basic</set></card>
+		<card><name>QUES0037</name><set>Basic</set></card>
+		<card><name>QUES0038</name><set>Basic</set></card>
+		<card><name>QUES0039</name><set>Basic</set></card>
+		<card><name>QUES0040</name><set>Basic</set></card>
+		<card><name>QUES0041</name><set>Basic</set></card>
+		<card><name>QUES0042</name><set>Basic</set></card>
+		<card><name>QUES0043</name><set>Basic</set></card>
+		<card><name>QUES0044</name><set>Basic</set></card>
+		<card><name>QUES0045</name><set>Basic</set></card>
+		<card><name>QUES0046</name><set>Basic</set></card>
+		<card><name>QUES0047</name><set>Basic</set></card>
+		<card><name>QUES0048</name><set>Basic</set></card>
+		<card><name>QUES0049</name><set>Basic</set></card>
+		<card><name>QUES0050</name><set>Basic</set></card>
+		<card><name>QUES0051</name><set>Basic</set></card>
+		<card><name>QUES0052</name><set>Basic</set></card>
+		<card><name>QUES0053</name><set>Basic</set></card>
+		<card><name>QUES0054</name><set>Basic</set></card>
+		<card><name>QUES0055</name><set>Basic</set></card>
+		<card><name>QUES0056</name><set>Basic</set></card>
+		<card><name>QUES0057</name><set>Basic</set></card>
+		<card><name>QUES0058</name><set>Basic</set></card>
+		<card><name>QUES0059</name><set>Basic</set></card>
+		<card><name>QUES0060</name><set>Basic</set></card>
+		<card><name>QUES0061</name><set>Basic</set></card>
+		<card><name>QUES0062</name><set>Basic</set></card>
+		<card><name>QUES0063</name><set>Basic</set></card>
+		<card><name>QUES0064</name><set>Basic</set></card>
+		<card><name>QUES0065</name><set>Basic</set></card>
+		<card><name>QUES0066</name><set>Basic</set></card>
+		<card><name>QUES0067</name><set>Basic</set></card>
+		<card><name>QUES0068</name><set>Basic</set></card>
+		<card><name>QUES0069</name><set>Basic</set></card>
+		<card><name>QUES0070</name><set>Basic</set></card>
+		<card><name>QUES0071</name><set>Basic</set></card>
+		<card><name>QUES0072</name><set>Basic</set></card>
+		<card><name>QUES0073</name><set>Basic</set></card>
+		<card><name>QUES0074</name><set>Basic</set></card>
+		<card><name>QUES0075</name><set>Basic</set></card>
+		<card><name>QUES0076</name><set>Basic</set></card>
+		<card><name>QUES0077</name><set>Basic</set></card>
+		<card><name>QUES0078</name><set>Basic</set></card>
+		<card><name>QUES0079</name><set>Basic</set></card>
+		<card><name>QUES0080</name><set>Basic</set></card>
+		<card><name>QUES0081</name><set>Basic</set></card>
+		<card><name>QUES0082</name><set>Basic</set></card>
+		<card><name>QUES0083</name><set>Basic</set></card>
+		<card><name>QUES0084</name><set>Basic</set></card>
+		<card><name>QUES0085</name><set>Basic</set></card>
+		<card><name>QUES0086</name><set>Basic</set></card>
+		<card><name>QUES0087</name><set>Basic</set></card>
+		<card><name>QUES0088</name><set>Basic</set></card>
+		<card><name>QUES0089</name><set>Basic</set></card>
+		<card><name>QUES0090</name><set>Basic</set></card>
+		<card><name>QUES0091</name><set>Basic</set></card>
+		<card><name>QUES0092</name><set>Basic</set></card>
+		<card><name>QUES0093</name><set>Basic</set></card>
+		<card><name>QUES0094</name><set>Basic</set></card>
+		<card><name>QUES0095</name><set>Basic</set></card>
+		<card><name>QUES0096</name><set>Basic</set></card>
+		<card><name>QUES0097</name><set>Basic</set></card>
+		<card><name>QUES0098</name><set>Basic</set></card>
+		<card><name>QUES0249</name><set>Box</set></card>
+		<card><name>QUES0250</name><set>Box</set></card>
+		<card><name>QUES0251</name><set>Box</set></card>
+		<card><name>QUES0252</name><set>Box</set></card>
+		<card><name>QUES0253</name><set>Box</set></card>
+		<card><name>QUES0254</name><set>Box</set></card>
+		<card><name>QUES0255</name><set>Box</set></card>
+		<card><name>QUES0256</name><set>Box</set></card>
+		<card><name>QUES0257</name><set>Box</set></card>
+		<card><name>QUES0258</name><set>Box</set></card>
+		<card><name>QUES0259</name><set>Box</set></card>
+		<card><name>QUES0260</name><set>Box</set></card>
+		<card><name>QUES0261</name><set>Box</set></card>
+		<card><name>QUES0262</name><set>Box</set></card>
+		<card><name>QUES0263</name><set>Box</set></card>
+		<card><name>QUES0264</name><set>Box</set></card>
+		<card><name>QUES0265</name><set>Box</set></card>
+		<card><name>QUES0266</name><set>Box</set></card>
+		<card><name>QUES0267</name><set>Box</set></card>
+		<card><name>QUES0268</name><set>Box</set></card>
+		<card><name>DWQUES0001</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0002</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0003</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0004</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0005</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0006</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0007</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0008</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0009</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0010</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0011</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0012</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0013</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0014</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0015</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0016</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0017</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0018</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0019</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0020</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0021</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0022</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0023</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0024</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0025</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0026</name><set>Doctor Who</set></card>
+		<card><name>DWQUES0027</name><set>Doctor Who</set></card>
+		<card><name>FTSYQUES0001</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYQUES0002</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYQUES0003</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYQUES0004</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYQUES0005</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYQUES0006</name><set>Fantasy Pack</set></card>
+		<card><name>GPB0001</name><set>Geek Pack</set></card>
+		<card><name>GPB0002</name><set>Geek Pack</set></card>
+		<card><name>GPB0003</name><set>Geek Pack</set></card>
+		<card><name>GPB0004</name><set>Geek Pack</set></card>
+		<card><name>GPB0005</name><set>Geek Pack</set></card>
+		<card><name>GPB0006</name><set>Geek Pack</set></card>
+		<card><name>QUES0283</name><set>Holiday 2012</set></card>
+		<card><name>QUES0284</name><set>Holiday 2012</set></card>
+		<card><name>QUES0285</name><set>Holiday 2012</set></card>
+		<card><name>QUES0286</name><set>Holiday 2012</set></card>
+		<card><name>QUES0287</name><set>Holiday 2012</set></card>
+		<card><name>QUES0288</name><set>Holiday 2012</set></card>
+		<card><name>QUES0289</name><set>Holiday 2012</set></card>
+		<card><name>QUES0290</name><set>Holiday 2013</set></card>
+		<card><name>QUES0291</name><set>Holiday 2013</set></card>
+		<card><name>QUES0292</name><set>Holiday 2013</set></card>
+		<card><name>QUES0293</name><set>Holiday 2013</set></card>
+		<card><name>QUES0294</name><set>Holiday 2013</set></card>
+		<card><name>QUES0295</name><set>Holiday 2013</set></card>
+		<card><name>QUES0296</name><set>Holiday 2013</set></card>
+		<card><name>QUES0297</name><set>Holiday 2013</set></card>
+		<card><name>QUES0298</name><set>Holiday 2013</set></card>
+		<card><name>QUES0299</name><set>Holiday 2013</set></card>
+		<card><name>QUES0300</name><set>Holiday 2013</set></card>
+		<card><name>HOCQUES0001</name><set>House Of Cards</set></card>
+		<card><name>HOCQUES0002</name><set>House Of Cards</set></card>
+		<card><name>HOCQUES0003</name><set>House Of Cards</set></card>
+		<card><name>HOCQUES0004</name><set>House Of Cards</set></card>
+		<card><name>HOCQUES0005</name><set>House Of Cards</set></card>
+		<card><name>HOCQUES0006</name><set>House Of Cards</set></card>
+		<card><name>HOCQUES0007</name><set>House Of Cards</set></card>
+		<card><name>HOCQUES0008</name><set>House Of Cards</set></card>
+		<card><name>HOCQUES0009</name><set>House Of Cards</set></card>
+		<card><name>QUES0276</name><set>Science</set></card>
+		<card><name>QUES0277</name><set>Science</set></card>
+		<card><name>QUES0278</name><set>Science</set></card>
+		<card><name>QUES0279</name><set>Science</set></card>
+		<card><name>QUES0280</name><set>Science</set></card>
+		<card><name>QUES0281</name><set>Science</set></card>
+		<card><name>QUES0282</name><set>Science</set></card>
+	</superzone>	
+	<superzone name="Answer Pile">	
+		<card><name>ANS0428</name><set>1st</set></card>
+		<card><name>ANS0429</name><set>1st</set></card>
+		<card><name>ANS0430</name><set>1st</set></card>
+		<card><name>ANS0431</name><set>1st</set></card>
+		<card><name>ANS0432</name><set>1st</set></card>
+		<card><name>ANS0433</name><set>1st</set></card>
+		<card><name>ANS0434</name><set>1st</set></card>
+		<card><name>ANS0435</name><set>1st</set></card>
+		<card><name>ANS0436</name><set>1st</set></card>
+		<card><name>ANS0437</name><set>1st</set></card>
+		<card><name>ANS0438</name><set>1st</set></card>
+		<card><name>ANS0439</name><set>1st</set></card>
+		<card><name>ANS0440</name><set>1st</set></card>
+		<card><name>ANS0441</name><set>1st</set></card>
+		<card><name>ANS0442</name><set>1st</set></card>
+		<card><name>ANS0443</name><set>1st</set></card>
+		<card><name>ANS0444</name><set>1st</set></card>
+		<card><name>ANS0445</name><set>1st</set></card>
+		<card><name>ANS0446</name><set>1st</set></card>
+		<card><name>ANS0447</name><set>1st</set></card>
+		<card><name>ANS0448</name><set>1st</set></card>
+		<card><name>ANS0449</name><set>1st</set></card>
+		<card><name>ANS0450</name><set>1st</set></card>
+		<card><name>ANS0451</name><set>1st</set></card>
+		<card><name>ANS0452</name><set>1st</set></card>
+		<card><name>ANS0453</name><set>1st</set></card>
+		<card><name>ANS0454</name><set>1st</set></card>
+		<card><name>ANS0455</name><set>1st</set></card>
+		<card><name>ANS0456</name><set>1st</set></card>
+		<card><name>ANS0457</name><set>1st</set></card>
+		<card><name>ANS0458</name><set>1st</set></card>
+		<card><name>ANS0459</name><set>1st</set></card>
+		<card><name>ANS0460</name><set>1st</set></card>
+		<card><name>ANS0461</name><set>1st</set></card>
+		<card><name>ANS0462</name><set>1st</set></card>
+		<card><name>ANS0463</name><set>1st</set></card>
+		<card><name>ANS0464</name><set>1st</set></card>
+		<card><name>ANS0465</name><set>1st</set></card>
+		<card><name>ANS0466</name><set>1st</set></card>
+		<card><name>ANS0467</name><set>1st</set></card>
+		<card><name>ANS0468</name><set>1st</set></card>
+		<card><name>ANS0469</name><set>1st</set></card>
+		<card><name>ANS0470</name><set>1st</set></card>
+		<card><name>ANS0471</name><set>1st</set></card>
+		<card><name>ANS0472</name><set>1st</set></card>
+		<card><name>ANS0473</name><set>1st</set></card>
+		<card><name>ANS0474</name><set>1st</set></card>
+		<card><name>ANS0475</name><set>1st</set></card>
+		<card><name>ANS0476</name><set>1st</set></card>
+		<card><name>ANS0477</name><set>1st</set></card>
+		<card><name>ANS0478</name><set>1st</set></card>
+		<card><name>ANS0479</name><set>1st</set></card>
+		<card><name>ANS0480</name><set>1st</set></card>
+		<card><name>ANS0481</name><set>1st</set></card>
+		<card><name>ANS0482</name><set>1st</set></card>
+		<card><name>ANS0483</name><set>1st</set></card>
+		<card><name>ANS0484</name><set>1st</set></card>
+		<card><name>ANS0485</name><set>1st</set></card>
+		<card><name>ANS0486</name><set>1st</set></card>
+		<card><name>ANS0487</name><set>1st</set></card>
+		<card><name>ANS0488</name><set>1st</set></card>
+		<card><name>ANS0489</name><set>1st</set></card>
+		<card><name>ANS0490</name><set>1st</set></card>
+		<card><name>ANS0491</name><set>1st</set></card>
+		<card><name>ANS0492</name><set>1st</set></card>
+		<card><name>ANS0493</name><set>1st</set></card>
+		<card><name>ANS0494</name><set>1st</set></card>
+		<card><name>ANS0495</name><set>1st</set></card>
+		<card><name>ANS0496</name><set>1st</set></card>
+		<card><name>ANS0497</name><set>1st</set></card>
+		<card><name>ANS0498</name><set>1st</set></card>
+		<card><name>ANS0499</name><set>1st</set></card>
+		<card><name>ANS0500</name><set>1st</set></card>
+		<card><name>ANS0501</name><set>1st</set></card>
+		<card><name>ANS0502</name><set>1st</set></card>
+		<card><name>ANS0503</name><set>1st</set></card>
+		<card><name>ANS0504</name><set>1st</set></card>
+		<card><name>ANS0505</name><set>1st</set></card>
+		<card><name>ANS0506</name><set>1st</set></card>
+		<card><name>ANS0507</name><set>1st</set></card>
+		<card><name>ANS0508</name><set>2nd</set></card>
+		<card><name>ANS0509</name><set>2nd</set></card>
+		<card><name>ANS0510</name><set>2nd</set></card>
+		<card><name>ANS0511</name><set>2nd</set></card>
+		<card><name>ANS0512</name><set>2nd</set></card>
+		<card><name>ANS0513</name><set>2nd</set></card>
+		<card><name>ANS0514</name><set>2nd</set></card>
+		<card><name>ANS0515</name><set>2nd</set></card>
+		<card><name>ANS0516</name><set>2nd</set></card>
+		<card><name>ANS0517</name><set>2nd</set></card>
+		<card><name>ANS0518</name><set>2nd</set></card>
+		<card><name>ANS0519</name><set>2nd</set></card>
+		<card><name>ANS0520</name><set>2nd</set></card>
+		<card><name>ANS0521</name><set>2nd</set></card>
+		<card><name>ANS0522</name><set>2nd</set></card>
+		<card><name>ANS0523</name><set>2nd</set></card>
+		<card><name>ANS0524</name><set>2nd</set></card>
+		<card><name>ANS0525</name><set>2nd</set></card>
+		<card><name>ANS0526</name><set>2nd</set></card>
+		<card><name>ANS0527</name><set>2nd</set></card>
+		<card><name>ANS0528</name><set>2nd</set></card>
+		<card><name>ANS0529</name><set>2nd</set></card>
+		<card><name>ANS0530</name><set>2nd</set></card>
+		<card><name>ANS0531</name><set>2nd</set></card>
+		<card><name>ANS0532</name><set>2nd</set></card>
+		<card><name>ANS0533</name><set>2nd</set></card>
+		<card><name>ANS0534</name><set>2nd</set></card>
+		<card><name>ANS0535</name><set>2nd</set></card>
+		<card><name>ANS0536</name><set>2nd</set></card>
+		<card><name>ANS0537</name><set>2nd</set></card>
+		<card><name>ANS0538</name><set>2nd</set></card>
+		<card><name>ANS0539</name><set>2nd</set></card>
+		<card><name>ANS0540</name><set>2nd</set></card>
+		<card><name>ANS0541</name><set>2nd</set></card>
+		<card><name>ANS0542</name><set>2nd</set></card>
+		<card><name>ANS0543</name><set>2nd</set></card>
+		<card><name>ANS0544</name><set>2nd</set></card>
+		<card><name>ANS0545</name><set>2nd</set></card>
+		<card><name>ANS0546</name><set>2nd</set></card>
+		<card><name>ANS0547</name><set>2nd</set></card>
+		<card><name>ANS0548</name><set>2nd</set></card>
+		<card><name>ANS0549</name><set>2nd</set></card>
+		<card><name>ANS0550</name><set>2nd</set></card>
+		<card><name>ANS0551</name><set>2nd</set></card>
+		<card><name>ANS0552</name><set>2nd</set></card>
+		<card><name>ANS0553</name><set>2nd</set></card>
+		<card><name>ANS0554</name><set>2nd</set></card>
+		<card><name>ANS0555</name><set>2nd</set></card>
+		<card><name>ANS0556</name><set>2nd</set></card>
+		<card><name>ANS0557</name><set>2nd</set></card>
+		<card><name>ANS0558</name><set>2nd</set></card>
+		<card><name>ANS0559</name><set>2nd</set></card>
+		<card><name>ANS0560</name><set>2nd</set></card>
+		<card><name>ANS0561</name><set>2nd</set></card>
+		<card><name>ANS0562</name><set>2nd</set></card>
+		<card><name>ANS0563</name><set>2nd</set></card>
+		<card><name>ANS0564</name><set>2nd</set></card>
+		<card><name>ANS0565</name><set>2nd</set></card>
+		<card><name>ANS0566</name><set>2nd</set></card>
+		<card><name>ANS0567</name><set>2nd</set></card>
+		<card><name>ANS0568</name><set>2nd</set></card>
+		<card><name>ANS0569</name><set>2nd</set></card>
+		<card><name>ANS0570</name><set>2nd</set></card>
+		<card><name>ANS0571</name><set>2nd</set></card>
+		<card><name>ANS0572</name><set>2nd</set></card>
+		<card><name>ANS0573</name><set>2nd</set></card>
+		<card><name>ANS0574</name><set>2nd</set></card>
+		<card><name>ANS0575</name><set>2nd</set></card>
+		<card><name>ANS0576</name><set>2nd</set></card>
+		<card><name>ANS0577</name><set>2nd</set></card>
+		<card><name>ANS0578</name><set>2nd</set></card>
+		<card><name>ANS0579</name><set>2nd</set></card>
+		<card><name>ANS0580</name><set>2nd</set></card>
+		<card><name>ANS0581</name><set>2nd</set></card>
+		<card><name>ANS0582</name><set>2nd</set></card>
+		<card><name>ANS0583</name><set>3rd</set></card>
+		<card><name>ANS0584</name><set>3rd</set></card>
+		<card><name>ANS0585</name><set>3rd</set></card>
+		<card><name>ANS0586</name><set>3rd</set></card>
+		<card><name>ANS0587</name><set>3rd</set></card>
+		<card><name>ANS0588</name><set>3rd</set></card>
+		<card><name>ANS0589</name><set>3rd</set></card>
+		<card><name>ANS0590</name><set>3rd</set></card>
+		<card><name>ANS0591</name><set>3rd</set></card>
+		<card><name>ANS0592</name><set>3rd</set></card>
+		<card><name>ANS0593</name><set>3rd</set></card>
+		<card><name>ANS0594</name><set>3rd</set></card>
+		<card><name>ANS0595</name><set>3rd</set></card>
+		<card><name>ANS0596</name><set>3rd</set></card>
+		<card><name>ANS0597</name><set>3rd</set></card>
+		<card><name>ANS0598</name><set>3rd</set></card>
+		<card><name>ANS0599</name><set>3rd</set></card>
+		<card><name>ANS0600</name><set>3rd</set></card>
+		<card><name>ANS0601</name><set>3rd</set></card>
+		<card><name>ANS0602</name><set>3rd</set></card>
+		<card><name>ANS0603</name><set>3rd</set></card>
+		<card><name>ANS0604</name><set>3rd</set></card>
+		<card><name>ANS0605</name><set>3rd</set></card>
+		<card><name>ANS0606</name><set>3rd</set></card>
+		<card><name>ANS0607</name><set>3rd</set></card>
+		<card><name>ANS0608</name><set>3rd</set></card>
+		<card><name>ANS0609</name><set>3rd</set></card>
+		<card><name>ANS0610</name><set>3rd</set></card>
+		<card><name>ANS0611</name><set>3rd</set></card>
+		<card><name>ANS0612</name><set>3rd</set></card>
+		<card><name>ANS0613</name><set>3rd</set></card>
+		<card><name>ANS0614</name><set>3rd</set></card>
+		<card><name>ANS0615</name><set>3rd</set></card>
+		<card><name>ANS0616</name><set>3rd</set></card>
+		<card><name>ANS0617</name><set>3rd</set></card>
+		<card><name>ANS0618</name><set>3rd</set></card>
+		<card><name>ANS0619</name><set>3rd</set></card>
+		<card><name>ANS0620</name><set>3rd</set></card>
+		<card><name>ANS0621</name><set>3rd</set></card>
+		<card><name>ANS0622</name><set>3rd</set></card>
+		<card><name>ANS0623</name><set>3rd</set></card>
+		<card><name>ANS0624</name><set>3rd</set></card>
+		<card><name>ANS0625</name><set>3rd</set></card>
+		<card><name>ANS0626</name><set>3rd</set></card>
+		<card><name>ANS0627</name><set>3rd</set></card>
+		<card><name>ANS0628</name><set>3rd</set></card>
+		<card><name>ANS0629</name><set>3rd</set></card>
+		<card><name>ANS0630</name><set>3rd</set></card>
+		<card><name>ANS0631</name><set>3rd</set></card>
+		<card><name>ANS0632</name><set>3rd</set></card>
+		<card><name>ANS0633</name><set>3rd</set></card>
+		<card><name>ANS0634</name><set>3rd</set></card>
+		<card><name>ANS0635</name><set>3rd</set></card>
+		<card><name>ANS0636</name><set>3rd</set></card>
+		<card><name>ANS0637</name><set>3rd</set></card>
+		<card><name>ANS0638</name><set>3rd</set></card>
+		<card><name>ANS0639</name><set>3rd</set></card>
+		<card><name>ANS0640</name><set>3rd</set></card>
+		<card><name>ANS0641</name><set>3rd</set></card>
+		<card><name>ANS0642</name><set>3rd</set></card>
+		<card><name>ANS0643</name><set>3rd</set></card>
+		<card><name>ANS0644</name><set>3rd</set></card>
+		<card><name>ANS0645</name><set>3rd</set></card>
+		<card><name>ANS0646</name><set>3rd</set></card>
+		<card><name>ANS0647</name><set>3rd</set></card>
+		<card><name>ANS0648</name><set>3rd</set></card>
+		<card><name>ANS0649</name><set>3rd</set></card>
+		<card><name>ANS0650</name><set>3rd</set></card>
+		<card><name>ANS0651</name><set>3rd</set></card>
+		<card><name>ANS0652</name><set>3rd</set></card>
+		<card><name>ANS0653</name><set>3rd</set></card>
+		<card><name>ANS0654</name><set>3rd</set></card>
+		<card><name>ANS0655</name><set>3rd</set></card>
+		<card><name>ANS0656</name><set>3rd</set></card>
+		<card><name>ANS0657</name><set>3rd</set></card>
+		<card><name>ANS0658</name><set>4th</set></card>
+		<card><name>ANS0659</name><set>4th</set></card>
+		<card><name>ANS0660</name><set>4th</set></card>
+		<card><name>ANS0661</name><set>4th</set></card>
+		<card><name>ANS0662</name><set>4th</set></card>
+		<card><name>ANS0663</name><set>4th</set></card>
+		<card><name>ANS0664</name><set>4th</set></card>
+		<card><name>ANS0665</name><set>4th</set></card>
+		<card><name>ANS0666</name><set>4th</set></card>
+		<card><name>ANS0667</name><set>4th</set></card>
+		<card><name>ANS0668</name><set>4th</set></card>
+		<card><name>ANS0669</name><set>4th</set></card>
+		<card><name>ANS0670</name><set>4th</set></card>
+		<card><name>ANS0671</name><set>4th</set></card>
+		<card><name>ANS0672</name><set>4th</set></card>
+		<card><name>ANS0673</name><set>4th</set></card>
+		<card><name>ANS0674</name><set>4th</set></card>
+		<card><name>ANS0675</name><set>4th</set></card>
+		<card><name>ANS0676</name><set>4th</set></card>
+		<card><name>ANS0677</name><set>4th</set></card>
+		<card><name>ANS0678</name><set>4th</set></card>
+		<card><name>ANS0679</name><set>4th</set></card>
+		<card><name>ANS0680</name><set>4th</set></card>
+		<card><name>ANS0681</name><set>4th</set></card>
+		<card><name>ANS0682</name><set>4th</set></card>
+		<card><name>ANS0683</name><set>4th</set></card>
+		<card><name>ANS0684</name><set>4th</set></card>
+		<card><name>ANS0685</name><set>4th</set></card>
+		<card><name>ANS0686</name><set>4th</set></card>
+		<card><name>ANS0687</name><set>4th</set></card>
+		<card><name>ANS0688</name><set>4th</set></card>
+		<card><name>ANS0689</name><set>4th</set></card>
+		<card><name>ANS0690</name><set>4th</set></card>
+		<card><name>ANS0691</name><set>4th</set></card>
+		<card><name>ANS0692</name><set>4th</set></card>
+		<card><name>ANS0693</name><set>4th</set></card>
+		<card><name>ANS0694</name><set>4th</set></card>
+		<card><name>ANS0695</name><set>4th</set></card>
+		<card><name>ANS0696</name><set>4th</set></card>
+		<card><name>ANS0697</name><set>4th</set></card>
+		<card><name>ANS0698</name><set>4th</set></card>
+		<card><name>ANS0699</name><set>4th</set></card>
+		<card><name>ANS0700</name><set>4th</set></card>
+		<card><name>ANS0701</name><set>4th</set></card>
+		<card><name>ANS0702</name><set>4th</set></card>
+		<card><name>ANS0703</name><set>4th</set></card>
+		<card><name>ANS0704</name><set>4th</set></card>
+		<card><name>ANS0705</name><set>4th</set></card>
+		<card><name>ANS0706</name><set>4th</set></card>
+		<card><name>ANS0707</name><set>4th</set></card>
+		<card><name>ANS0708</name><set>4th</set></card>
+		<card><name>ANS0709</name><set>4th</set></card>
+		<card><name>ANS0710</name><set>4th</set></card>
+		<card><name>ANS0711</name><set>4th</set></card>
+		<card><name>ANS0712</name><set>4th</set></card>
+		<card><name>ANS0713</name><set>4th</set></card>
+		<card><name>ANS0714</name><set>4th</set></card>
+		<card><name>ANS0715</name><set>4th</set></card>
+		<card><name>ANS0716</name><set>4th</set></card>
+		<card><name>ANS0717</name><set>4th</set></card>
+		<card><name>ANS0718</name><set>4th</set></card>
+		<card><name>ANS0719</name><set>4th</set></card>
+		<card><name>ANS0720</name><set>4th</set></card>
+		<card><name>ANS0721</name><set>4th</set></card>
+		<card><name>ANS0722</name><set>4th</set></card>
+		<card><name>ANS0723</name><set>4th</set></card>
+		<card><name>ANS0724</name><set>4th</set></card>
+		<card><name>ANS0725</name><set>4th</set></card>
+		<card><name>ANS0726</name><set>4th</set></card>
+		<card><name>ANS0727</name><set>4th</set></card>
+		<card><name>ANS0728</name><set>5th</set></card>
+		<card><name>ANS0729</name><set>5th</set></card>
+		<card><name>ANS0730</name><set>5th</set></card>
+		<card><name>ANS0731</name><set>5th</set></card>
+		<card><name>ANS0732</name><set>5th</set></card>
+		<card><name>ANS0733</name><set>5th</set></card>
+		<card><name>ANS0734</name><set>5th</set></card>
+		<card><name>ANS0735</name><set>5th</set></card>
+		<card><name>ANS0736</name><set>5th</set></card>
+		<card><name>ANS0737</name><set>5th</set></card>
+		<card><name>ANS0738</name><set>5th</set></card>
+		<card><name>ANS0739</name><set>5th</set></card>
+		<card><name>ANS0740</name><set>5th</set></card>
+		<card><name>ANS0741</name><set>5th</set></card>
+		<card><name>ANS0742</name><set>5th</set></card>
+		<card><name>ANS0743</name><set>5th</set></card>
+		<card><name>ANS0744</name><set>5th</set></card>
+		<card><name>ANS0745</name><set>5th</set></card>
+		<card><name>ANS0746</name><set>5th</set></card>
+		<card><name>ANS0747</name><set>5th</set></card>
+		<card><name>ANS0748</name><set>5th</set></card>
+		<card><name>ANS0749</name><set>5th</set></card>
+		<card><name>ANS0750</name><set>5th</set></card>
+		<card><name>ANS0751</name><set>5th</set></card>
+		<card><name>ANS0752</name><set>5th</set></card>
+		<card><name>ANS0753</name><set>5th</set></card>
+		<card><name>ANS0754</name><set>5th</set></card>
+		<card><name>ANS0755</name><set>5th</set></card>
+		<card><name>ANS0756</name><set>5th</set></card>
+		<card><name>ANS0757</name><set>5th</set></card>
+		<card><name>ANS0758</name><set>5th</set></card>
+		<card><name>ANS0759</name><set>5th</set></card>
+		<card><name>ANS0760</name><set>5th</set></card>
+		<card><name>ANS0761</name><set>5th</set></card>
+		<card><name>ANS0762</name><set>5th</set></card>
+		<card><name>ANS0763</name><set>5th</set></card>
+		<card><name>ANS0764</name><set>5th</set></card>
+		<card><name>ANS0765</name><set>5th</set></card>
+		<card><name>ANS0766</name><set>5th</set></card>
+		<card><name>ANS0767</name><set>5th</set></card>
+		<card><name>ANS0768</name><set>5th</set></card>
+		<card><name>ANS0769</name><set>5th</set></card>
+		<card><name>ANS0770</name><set>5th</set></card>
+		<card><name>ANS0771</name><set>5th</set></card>
+		<card><name>ANS0772</name><set>5th</set></card>
+		<card><name>ANS0773</name><set>5th</set></card>
+		<card><name>ANS0774</name><set>5th</set></card>
+		<card><name>ANS0775</name><set>5th</set></card>
+		<card><name>ANS0776</name><set>5th</set></card>
+		<card><name>ANS0777</name><set>5th</set></card>
+		<card><name>ANS0778</name><set>5th</set></card>
+		<card><name>ANS0779</name><set>5th</set></card>
+		<card><name>ANS0780</name><set>5th</set></card>
+		<card><name>ANS0781</name><set>5th</set></card>
+		<card><name>ANS0782</name><set>5th</set></card>
+		<card><name>ANS0783</name><set>5th</set></card>
+		<card><name>ANS0784</name><set>5th</set></card>
+		<card><name>ANS0785</name><set>5th</set></card>
+		<card><name>ANS0786</name><set>5th</set></card>
+		<card><name>ANS0787</name><set>5th</set></card>
+		<card><name>ANS0788</name><set>5th</set></card>
+		<card><name>ANS0789</name><set>5th</set></card>
+		<card><name>ANS0790</name><set>5th</set></card>
+		<card><name>ANS0791</name><set>5th</set></card>
+		<card><name>ANS0792</name><set>5th</set></card>
+		<card><name>ANS0793</name><set>5th</set></card>
+		<card><name>ANS0794</name><set>5th</set></card>
+		<card><name>ANS0795</name><set>5th</set></card>
+		<card><name>ANS0796</name><set>5th</set></card>
+		<card><name>ANS0797</name><set>5th</set></card>
+		<card><name>ANS0798</name><set>5th</set></card>
+		<card><name>ANS0799</name><set>5th</set></card>
+		<card><name>ANS0800</name><set>5th</set></card>
+		<card><name>ANS0801</name><set>5th</set></card>
+		<card><name>ANS0802</name><set>6th</set></card>
+		<card><name>ANS0803</name><set>6th</set></card>
+		<card><name>ANS0804</name><set>6th</set></card>
+		<card><name>ANS0805</name><set>6th</set></card>
+		<card><name>ANS0806</name><set>6th</set></card>
+		<card><name>ANS0807</name><set>6th</set></card>
+		<card><name>ANS0808</name><set>6th</set></card>
+		<card><name>ANS0809</name><set>6th</set></card>
+		<card><name>ANS0810</name><set>6th</set></card>
+		<card><name>ANS0811</name><set>6th</set></card>
+		<card><name>ANS0812</name><set>6th</set></card>
+		<card><name>ANS0813</name><set>6th</set></card>
+		<card><name>ANS0814</name><set>6th</set></card>
+		<card><name>ANS0815</name><set>6th</set></card>
+		<card><name>ANS0816</name><set>6th</set></card>
+		<card><name>ANS0817</name><set>6th</set></card>
+		<card><name>ANS0818</name><set>6th</set></card>
+		<card><name>ANS0819</name><set>6th</set></card>
+		<card><name>ANS0820</name><set>6th</set></card>
+		<card><name>ANS0821</name><set>6th</set></card>
+		<card><name>ANS0822</name><set>6th</set></card>
+		<card><name>ANS0823</name><set>6th</set></card>
+		<card><name>ANS0824</name><set>6th</set></card>
+		<card><name>ANS0825</name><set>6th</set></card>
+		<card><name>ANS0826</name><set>6th</set></card>
+		<card><name>ANS0827</name><set>6th</set></card>
+		<card><name>ANS0828</name><set>6th</set></card>
+		<card><name>ANS0829</name><set>6th</set></card>
+		<card><name>ANS0830</name><set>6th</set></card>
+		<card><name>ANS0831</name><set>6th</set></card>
+		<card><name>ANS0832</name><set>6th</set></card>
+		<card><name>ANS0833</name><set>6th</set></card>
+		<card><name>ANS0834</name><set>6th</set></card>
+		<card><name>ANS0835</name><set>6th</set></card>
+		<card><name>ANS0836</name><set>6th</set></card>
+		<card><name>ANS0837</name><set>6th</set></card>
+		<card><name>ANS0838</name><set>6th</set></card>
+		<card><name>ANS0839</name><set>6th</set></card>
+		<card><name>ANS0840</name><set>6th</set></card>
+		<card><name>ANS0841</name><set>6th</set></card>
+		<card><name>ANS0842</name><set>6th</set></card>
+		<card><name>ANS0843</name><set>6th</set></card>
+		<card><name>ANS0844</name><set>6th</set></card>
+		<card><name>ANS0845</name><set>6th</set></card>
+		<card><name>ANS0846</name><set>6th</set></card>
+		<card><name>ANS0847</name><set>6th</set></card>
+		<card><name>ANS0848</name><set>6th</set></card>
+		<card><name>ANS0849</name><set>6th</set></card>
+		<card><name>ANS0850</name><set>6th</set></card>
+		<card><name>ANS0851</name><set>6th</set></card>
+		<card><name>ANS0852</name><set>6th</set></card>
+		<card><name>ANS0853</name><set>6th</set></card>
+		<card><name>ANS0854</name><set>6th</set></card>
+		<card><name>ANS0855</name><set>6th</set></card>
+		<card><name>ANS0856</name><set>6th</set></card>
+		<card><name>ANS0857</name><set>6th</set></card>
+		<card><name>ANS0858</name><set>6th</set></card>
+		<card><name>ANS0859</name><set>6th</set></card>
+		<card><name>ANS0860</name><set>6th</set></card>
+		<card><name>ANS0861</name><set>6th</set></card>
+		<card><name>ANS0862</name><set>6th</set></card>
+		<card><name>ANS0863</name><set>6th</set></card>
+		<card><name>ANS0864</name><set>6th</set></card>
+		<card><name>ANS0865</name><set>6th</set></card>
+		<card><name>ANS0866</name><set>6th</set></card>
+		<card><name>ANS0867</name><set>6th</set></card>
+		<card><name>ANS0868</name><set>6th</set></card>
+		<card><name>ANS0869</name><set>6th</set></card>
+		<card><name>ANS0870</name><set>6th</set></card>
+		<card><name>ANS0871</name><set>6th</set></card>
+		<card><name>ANS0872</name><set>6th</set></card>
+		<card><name>ANS0873</name><set>6th</set></card>
+		<card><name>ANS0874</name><set>6th</set></card>
+		<card><name>ANS0875</name><set>6th</set></card>
+		<card><name>ANS0876</name><set>6th</set></card>
+		<card><name>ANS0878</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0879</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0880</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0881</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0882</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0883</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0884</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0885</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0886</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0887</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0888</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0889</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0890</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0891</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0892</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0893</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0894</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0895</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0896</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0897</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0898</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0899</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0900</name><set>90's Nostalgia</set></card>
+		<card><name>ANS0001</name><set>Basic</set></card>
+		<card><name>ANS0002</name><set>Basic</set></card>
+		<card><name>ANS0003</name><set>Basic</set></card>
+		<card><name>ANS0004</name><set>Basic</set></card>
+		<card><name>ANS0005</name><set>Basic</set></card>
+		<card><name>ANS0006</name><set>Basic</set></card>
+		<card><name>ANS0007</name><set>Basic</set></card>
+		<card><name>ANS0008</name><set>Basic</set></card>
+		<card><name>ANS0009</name><set>Basic</set></card>
+		<card><name>ANS0010</name><set>Basic</set></card>
+		<card><name>ANS0011</name><set>Basic</set></card>
+		<card><name>ANS0012</name><set>Basic</set></card>
+		<card><name>ANS0013</name><set>Basic</set></card>
+		<card><name>ANS0014</name><set>Basic</set></card>
+		<card><name>ANS0015</name><set>Basic</set></card>
+		<card><name>ANS0016</name><set>Basic</set></card>
+		<card><name>ANS0017</name><set>Basic</set></card>
+		<card><name>ANS0018</name><set>Basic</set></card>
+		<card><name>ANS0019</name><set>Basic</set></card>
+		<card><name>ANS0020</name><set>Basic</set></card>
+		<card><name>ANS0021</name><set>Basic</set></card>
+		<card><name>ANS0022</name><set>Basic</set></card>
+		<card><name>ANS0023</name><set>Basic</set></card>
+		<card><name>ANS0024</name><set>Basic</set></card>
+		<card><name>ANS0025</name><set>Basic</set></card>
+		<card><name>ANS0026</name><set>Basic</set></card>
+		<card><name>ANS0027</name><set>Basic</set></card>
+		<card><name>ANS0028</name><set>Basic</set></card>
+		<card><name>ANS0029</name><set>Basic</set></card>
+		<card><name>ANS0030</name><set>Basic</set></card>
+		<card><name>ANS0031</name><set>Basic</set></card>
+		<card><name>ANS0032</name><set>Basic</set></card>
+		<card><name>ANS0033</name><set>Basic</set></card>
+		<card><name>ANS0034</name><set>Basic</set></card>
+		<card><name>ANS0035</name><set>Basic</set></card>
+		<card><name>ANS0036</name><set>Basic</set></card>
+		<card><name>ANS0037</name><set>Basic</set></card>
+		<card><name>ANS0038</name><set>Basic</set></card>
+		<card><name>ANS0039</name><set>Basic</set></card>
+		<card><name>ANS0040</name><set>Basic</set></card>
+		<card><name>ANS0041</name><set>Basic</set></card>
+		<card><name>ANS0042</name><set>Basic</set></card>
+		<card><name>ANS0043</name><set>Basic</set></card>
+		<card><name>ANS0044</name><set>Basic</set></card>
+		<card><name>ANS0045</name><set>Basic</set></card>
+		<card><name>ANS0046</name><set>Basic</set></card>
+		<card><name>ANS0047</name><set>Basic</set></card>
+		<card><name>ANS0048</name><set>Basic</set></card>
+		<card><name>ANS0049</name><set>Basic</set></card>
+		<card><name>ANS0050</name><set>Basic</set></card>
+		<card><name>ANS0051</name><set>Basic</set></card>
+		<card><name>ANS0052</name><set>Basic</set></card>
+		<card><name>ANS0053</name><set>Basic</set></card>
+		<card><name>ANS0054</name><set>Basic</set></card>
+		<card><name>ANS0055</name><set>Basic</set></card>
+		<card><name>ANS0056</name><set>Basic</set></card>
+		<card><name>ANS0057</name><set>Basic</set></card>
+		<card><name>ANS0058</name><set>Basic</set></card>
+		<card><name>ANS0059</name><set>Basic</set></card>
+		<card><name>ANS0060</name><set>Basic</set></card>
+		<card><name>ANS0061</name><set>Basic</set></card>
+		<card><name>ANS0062</name><set>Basic</set></card>
+		<card><name>ANS0063</name><set>Basic</set></card>
+		<card><name>ANS0064</name><set>Basic</set></card>
+		<card><name>ANS0065</name><set>Basic</set></card>
+		<card><name>ANS0066</name><set>Basic</set></card>
+		<card><name>ANS0067</name><set>Basic</set></card>
+		<card><name>ANS0068</name><set>Basic</set></card>
+		<card><name>ANS0069</name><set>Basic</set></card>
+		<card><name>ANS0070</name><set>Basic</set></card>
+		<card><name>ANS0071</name><set>Basic</set></card>
+		<card><name>ANS0072</name><set>Basic</set></card>
+		<card><name>ANS0073</name><set>Basic</set></card>
+		<card><name>ANS0074</name><set>Basic</set></card>
+		<card><name>ANS0075</name><set>Basic</set></card>
+		<card><name>ANS0076</name><set>Basic</set></card>
+		<card><name>ANS0077</name><set>Basic</set></card>
+		<card><name>ANS0078</name><set>Basic</set></card>
+		<card><name>ANS0079</name><set>Basic</set></card>
+		<card><name>ANS0080</name><set>Basic</set></card>
+		<card><name>ANS0081</name><set>Basic</set></card>
+		<card><name>ANS0082</name><set>Basic</set></card>
+		<card><name>ANS0083</name><set>Basic</set></card>
+		<card><name>ANS0084</name><set>Basic</set></card>
+		<card><name>ANS0085</name><set>Basic</set></card>
+		<card><name>ANS0086</name><set>Basic</set></card>
+		<card><name>ANS0087</name><set>Basic</set></card>
+		<card><name>ANS0088</name><set>Basic</set></card>
+		<card><name>ANS0089</name><set>Basic</set></card>
+		<card><name>ANS0090</name><set>Basic</set></card>
+		<card><name>ANS0091</name><set>Basic</set></card>
+		<card><name>ANS0092</name><set>Basic</set></card>
+		<card><name>ANS0093</name><set>Basic</set></card>
+		<card><name>ANS0094</name><set>Basic</set></card>
+		<card><name>ANS0095</name><set>Basic</set></card>
+		<card><name>ANS0096</name><set>Basic</set></card>
+		<card><name>ANS0097</name><set>Basic</set></card>
+		<card><name>ANS0098</name><set>Basic</set></card>
+		<card><name>ANS0099</name><set>Basic</set></card>
+		<card><name>ANS0100</name><set>Basic</set></card>
+		<card><name>ANS0101</name><set>Basic</set></card>
+		<card><name>ANS0102</name><set>Basic</set></card>
+		<card><name>ANS0103</name><set>Basic</set></card>
+		<card><name>ANS0104</name><set>Basic</set></card>
+		<card><name>ANS0105</name><set>Basic</set></card>
+		<card><name>ANS0106</name><set>Basic</set></card>
+		<card><name>ANS0107</name><set>Basic</set></card>
+		<card><name>ANS0108</name><set>Basic</set></card>
+		<card><name>ANS0109</name><set>Basic</set></card>
+		<card><name>ANS0110</name><set>Basic</set></card>
+		<card><name>ANS0111</name><set>Basic</set></card>
+		<card><name>ANS0112</name><set>Basic</set></card>
+		<card><name>ANS0113</name><set>Basic</set></card>
+		<card><name>ANS0114</name><set>Basic</set></card>
+		<card><name>ANS0115</name><set>Basic</set></card>
+		<card><name>ANS0116</name><set>Basic</set></card>
+		<card><name>ANS0117</name><set>Basic</set></card>
+		<card><name>ANS0118</name><set>Basic</set></card>
+		<card><name>ANS0119</name><set>Basic</set></card>
+		<card><name>ANS0120</name><set>Basic</set></card>
+		<card><name>ANS0121</name><set>Basic</set></card>
+		<card><name>ANS0122</name><set>Basic</set></card>
+		<card><name>ANS0123</name><set>Basic</set></card>
+		<card><name>ANS0124</name><set>Basic</set></card>
+		<card><name>ANS0125</name><set>Basic</set></card>
+		<card><name>ANS0126</name><set>Basic</set></card>
+		<card><name>ANS0127</name><set>Basic</set></card>
+		<card><name>ANS0128</name><set>Basic</set></card>
+		<card><name>ANS0129</name><set>Basic</set></card>
+		<card><name>ANS0130</name><set>Basic</set></card>
+		<card><name>ANS0131</name><set>Basic</set></card>
+		<card><name>ANS0132</name><set>Basic</set></card>
+		<card><name>ANS0133</name><set>Basic</set></card>
+		<card><name>ANS0134</name><set>Basic</set></card>
+		<card><name>ANS0135</name><set>Basic</set></card>
+		<card><name>ANS0136</name><set>Basic</set></card>
+		<card><name>ANS0137</name><set>Basic</set></card>
+		<card><name>ANS0138</name><set>Basic</set></card>
+		<card><name>ANS0139</name><set>Basic</set></card>
+		<card><name>ANS0140</name><set>Basic</set></card>
+		<card><name>ANS0141</name><set>Basic</set></card>
+		<card><name>ANS0142</name><set>Basic</set></card>
+		<card><name>ANS0143</name><set>Basic</set></card>
+		<card><name>ANS0144</name><set>Basic</set></card>
+		<card><name>ANS0145</name><set>Basic</set></card>
+		<card><name>ANS0146</name><set>Basic</set></card>
+		<card><name>ANS0147</name><set>Basic</set></card>
+		<card><name>ANS0148</name><set>Basic</set></card>
+		<card><name>ANS0149</name><set>Basic</set></card>
+		<card><name>ANS0150</name><set>Basic</set></card>
+		<card><name>ANS0151</name><set>Basic</set></card>
+		<card><name>ANS0152</name><set>Basic</set></card>
+		<card><name>ANS0153</name><set>Basic</set></card>
+		<card><name>ANS0154</name><set>Basic</set></card>
+		<card><name>ANS0155</name><set>Basic</set></card>
+		<card><name>ANS0156</name><set>Basic</set></card>
+		<card><name>ANS0157</name><set>Basic</set></card>
+		<card><name>ANS0158</name><set>Basic</set></card>
+		<card><name>ANS0159</name><set>Basic</set></card>
+		<card><name>ANS0160</name><set>Basic</set></card>
+		<card><name>ANS0161</name><set>Basic</set></card>
+		<card><name>ANS0162</name><set>Basic</set></card>
+		<card><name>ANS0163</name><set>Basic</set></card>
+		<card><name>ANS0164</name><set>Basic</set></card>
+		<card><name>ANS0165</name><set>Basic</set></card>
+		<card><name>ANS0166</name><set>Basic</set></card>
+		<card><name>ANS0167</name><set>Basic</set></card>
+		<card><name>ANS0168</name><set>Basic</set></card>
+		<card><name>ANS0169</name><set>Basic</set></card>
+		<card><name>ANS0170</name><set>Basic</set></card>
+		<card><name>ANS0171</name><set>Basic</set></card>
+		<card><name>ANS0172</name><set>Basic</set></card>
+		<card><name>ANS0173</name><set>Basic</set></card>
+		<card><name>ANS0174</name><set>Basic</set></card>
+		<card><name>ANS0175</name><set>Basic</set></card>
+		<card><name>ANS0176</name><set>Basic</set></card>
+		<card><name>ANS0177</name><set>Basic</set></card>
+		<card><name>ANS0178</name><set>Basic</set></card>
+		<card><name>ANS0179</name><set>Basic</set></card>
+		<card><name>ANS0180</name><set>Basic</set></card>
+		<card><name>ANS0181</name><set>Basic</set></card>
+		<card><name>ANS0182</name><set>Basic</set></card>
+		<card><name>ANS0183</name><set>Basic</set></card>
+		<card><name>ANS0184</name><set>Basic</set></card>
+		<card><name>ANS0185</name><set>Basic</set></card>
+		<card><name>ANS0186</name><set>Basic</set></card>
+		<card><name>ANS0187</name><set>Basic</set></card>
+		<card><name>ANS0188</name><set>Basic</set></card>
+		<card><name>ANS0189</name><set>Basic</set></card>
+		<card><name>ANS0190</name><set>Basic</set></card>
+		<card><name>ANS0191</name><set>Basic</set></card>
+		<card><name>ANS0192</name><set>Basic</set></card>
+		<card><name>ANS0193</name><set>Basic</set></card>
+		<card><name>ANS0194</name><set>Basic</set></card>
+		<card><name>ANS0195</name><set>Basic</set></card>
+		<card><name>ANS0196</name><set>Basic</set></card>
+		<card><name>ANS0197</name><set>Basic</set></card>
+		<card><name>ANS0198</name><set>Basic</set></card>
+		<card><name>ANS0199</name><set>Basic</set></card>
+		<card><name>ANS0200</name><set>Basic</set></card>
+		<card><name>ANS0201</name><set>Basic</set></card>
+		<card><name>ANS0202</name><set>Basic</set></card>
+		<card><name>ANS0203</name><set>Basic</set></card>
+		<card><name>ANS0204</name><set>Basic</set></card>
+		<card><name>ANS0205</name><set>Basic</set></card>
+		<card><name>ANS0206</name><set>Basic</set></card>
+		<card><name>ANS0207</name><set>Basic</set></card>
+		<card><name>ANS0208</name><set>Basic</set></card>
+		<card><name>ANS0209</name><set>Basic</set></card>
+		<card><name>ANS0210</name><set>Basic</set></card>
+		<card><name>ANS0211</name><set>Basic</set></card>
+		<card><name>ANS0212</name><set>Basic</set></card>
+		<card><name>ANS0213</name><set>Basic</set></card>
+		<card><name>ANS0214</name><set>Basic</set></card>
+		<card><name>ANS0215</name><set>Basic</set></card>
+		<card><name>ANS0216</name><set>Basic</set></card>
+		<card><name>ANS0217</name><set>Basic</set></card>
+		<card><name>ANS0218</name><set>Basic</set></card>
+		<card><name>ANS0219</name><set>Basic</set></card>
+		<card><name>ANS0220</name><set>Basic</set></card>
+		<card><name>ANS0221</name><set>Basic</set></card>
+		<card><name>ANS0222</name><set>Basic</set></card>
+		<card><name>ANS0223</name><set>Basic</set></card>
+		<card><name>ANS0224</name><set>Basic</set></card>
+		<card><name>ANS0225</name><set>Basic</set></card>
+		<card><name>ANS0226</name><set>Basic</set></card>
+		<card><name>ANS0227</name><set>Basic</set></card>
+		<card><name>ANS0228</name><set>Basic</set></card>
+		<card><name>ANS0229</name><set>Basic</set></card>
+		<card><name>ANS0230</name><set>Basic</set></card>
+		<card><name>ANS0231</name><set>Basic</set></card>
+		<card><name>ANS0232</name><set>Basic</set></card>
+		<card><name>ANS0233</name><set>Basic</set></card>
+		<card><name>ANS0234</name><set>Basic</set></card>
+		<card><name>ANS0235</name><set>Basic</set></card>
+		<card><name>ANS0236</name><set>Basic</set></card>
+		<card><name>ANS0237</name><set>Basic</set></card>
+		<card><name>ANS0238</name><set>Basic</set></card>
+		<card><name>ANS0239</name><set>Basic</set></card>
+		<card><name>ANS0240</name><set>Basic</set></card>
+		<card><name>ANS0241</name><set>Basic</set></card>
+		<card><name>ANS0242</name><set>Basic</set></card>
+		<card><name>ANS0243</name><set>Basic</set></card>
+		<card><name>ANS0244</name><set>Basic</set></card>
+		<card><name>ANS0245</name><set>Basic</set></card>
+		<card><name>ANS0246</name><set>Basic</set></card>
+		<card><name>ANS0247</name><set>Basic</set></card>
+		<card><name>ANS0248</name><set>Basic</set></card>
+		<card><name>ANS0249</name><set>Basic</set></card>
+		<card><name>ANS0250</name><set>Basic</set></card>
+		<card><name>ANS0251</name><set>Basic</set></card>
+		<card><name>ANS0252</name><set>Basic</set></card>
+		<card><name>ANS0253</name><set>Basic</set></card>
+		<card><name>ANS0254</name><set>Basic</set></card>
+		<card><name>ANS0255</name><set>Basic</set></card>
+		<card><name>ANS0256</name><set>Basic</set></card>
+		<card><name>ANS0257</name><set>Basic</set></card>
+		<card><name>ANS0258</name><set>Basic</set></card>
+		<card><name>ANS0259</name><set>Basic</set></card>
+		<card><name>ANS0260</name><set>Basic</set></card>
+		<card><name>ANS0261</name><set>Basic</set></card>
+		<card><name>ANS0262</name><set>Basic</set></card>
+		<card><name>ANS0263</name><set>Basic</set></card>
+		<card><name>ANS0264</name><set>Basic</set></card>
+		<card><name>ANS0265</name><set>Basic</set></card>
+		<card><name>ANS0266</name><set>Basic</set></card>
+		<card><name>ANS0267</name><set>Basic</set></card>
+		<card><name>ANS0268</name><set>Basic</set></card>
+		<card><name>ANS0269</name><set>Basic</set></card>
+		<card><name>ANS0270</name><set>Basic</set></card>
+		<card><name>ANS0271</name><set>Basic</set></card>
+		<card><name>ANS0272</name><set>Basic</set></card>
+		<card><name>ANS0273</name><set>Basic</set></card>
+		<card><name>ANS0274</name><set>Basic</set></card>
+		<card><name>ANS0275</name><set>Basic</set></card>
+		<card><name>ANS0276</name><set>Basic</set></card>
+		<card><name>ANS0277</name><set>Basic</set></card>
+		<card><name>ANS0278</name><set>Basic</set></card>
+		<card><name>ANS0279</name><set>Basic</set></card>
+		<card><name>ANS0280</name><set>Basic</set></card>
+		<card><name>ANS0281</name><set>Basic</set></card>
+		<card><name>ANS0282</name><set>Basic</set></card>
+		<card><name>ANS0283</name><set>Basic</set></card>
+		<card><name>ANS0284</name><set>Basic</set></card>
+		<card><name>ANS0285</name><set>Basic</set></card>
+		<card><name>ANS0286</name><set>Basic</set></card>
+		<card><name>ANS0287</name><set>Basic</set></card>
+		<card><name>ANS0288</name><set>Basic</set></card>
+		<card><name>ANS0289</name><set>Basic</set></card>
+		<card><name>ANS0290</name><set>Basic</set></card>
+		<card><name>ANS0291</name><set>Basic</set></card>
+		<card><name>ANS0292</name><set>Basic</set></card>
+		<card><name>ANS0293</name><set>Basic</set></card>
+		<card><name>ANS0294</name><set>Basic</set></card>
+		<card><name>ANS0295</name><set>Basic</set></card>
+		<card><name>ANS0296</name><set>Basic</set></card>
+		<card><name>ANS0297</name><set>Basic</set></card>
+		<card><name>ANS0298</name><set>Basic</set></card>
+		<card><name>ANS0299</name><set>Basic</set></card>
+		<card><name>ANS0300</name><set>Basic</set></card>
+		<card><name>ANS0301</name><set>Basic</set></card>
+		<card><name>ANS0302</name><set>Basic</set></card>
+		<card><name>ANS0303</name><set>Basic</set></card>
+		<card><name>ANS0304</name><set>Basic</set></card>
+		<card><name>ANS0305</name><set>Basic</set></card>
+		<card><name>ANS0306</name><set>Basic</set></card>
+		<card><name>ANS0307</name><set>Basic</set></card>
+		<card><name>ANS0308</name><set>Basic</set></card>
+		<card><name>ANS0309</name><set>Basic</set></card>
+		<card><name>ANS0310</name><set>Basic</set></card>
+		<card><name>ANS0311</name><set>Basic</set></card>
+		<card><name>ANS0312</name><set>Basic</set></card>
+		<card><name>ANS0313</name><set>Basic</set></card>
+		<card><name>ANS0314</name><set>Basic</set></card>
+		<card><name>ANS0315</name><set>Basic</set></card>
+		<card><name>ANS0316</name><set>Basic</set></card>
+		<card><name>ANS0317</name><set>Basic</set></card>
+		<card><name>ANS0318</name><set>Basic</set></card>
+		<card><name>ANS0319</name><set>Basic</set></card>
+		<card><name>ANS0320</name><set>Basic</set></card>
+		<card><name>ANS0321</name><set>Basic</set></card>
+		<card><name>ANS0322</name><set>Basic</set></card>
+		<card><name>ANS0323</name><set>Basic</set></card>
+		<card><name>ANS0324</name><set>Basic</set></card>
+		<card><name>ANS0325</name><set>Basic</set></card>
+		<card><name>ANS0326</name><set>Basic</set></card>
+		<card><name>ANS0327</name><set>Basic</set></card>
+		<card><name>ANS0328</name><set>Basic</set></card>
+		<card><name>ANS0329</name><set>Basic</set></card>
+		<card><name>ANS0330</name><set>Basic</set></card>
+		<card><name>ANS0331</name><set>Basic</set></card>
+		<card><name>ANS0332</name><set>Basic</set></card>
+		<card><name>ANS0333</name><set>Basic</set></card>
+		<card><name>ANS0334</name><set>Basic</set></card>
+		<card><name>ANS0335</name><set>Basic</set></card>
+		<card><name>ANS0336</name><set>Basic</set></card>
+		<card><name>ANS0337</name><set>Basic</set></card>
+		<card><name>ANS0338</name><set>Basic</set></card>
+		<card><name>ANS0339</name><set>Basic</set></card>
+		<card><name>ANS0340</name><set>Basic</set></card>
+		<card><name>ANS0341</name><set>Basic</set></card>
+		<card><name>ANS0342</name><set>Basic</set></card>
+		<card><name>ANS0343</name><set>Basic</set></card>
+		<card><name>ANS0344</name><set>Basic</set></card>
+		<card><name>ANS0345</name><set>Basic</set></card>
+		<card><name>ANS0346</name><set>Basic</set></card>
+		<card><name>ANS0347</name><set>Basic</set></card>
+		<card><name>ANS0348</name><set>Basic</set></card>
+		<card><name>ANS0349</name><set>Basic</set></card>
+		<card><name>ANS0350</name><set>Basic</set></card>
+		<card><name>ANS0351</name><set>Basic</set></card>
+		<card><name>ANS0352</name><set>Basic</set></card>
+		<card><name>ANS0353</name><set>Basic</set></card>
+		<card><name>ANS0354</name><set>Basic</set></card>
+		<card><name>ANS0355</name><set>Basic</set></card>
+		<card><name>ANS0356</name><set>Basic</set></card>
+		<card><name>ANS0357</name><set>Basic</set></card>
+		<card><name>ANS0358</name><set>Basic</set></card>
+		<card><name>ANS0359</name><set>Basic</set></card>
+		<card><name>ANS0360</name><set>Basic</set></card>
+		<card><name>ANS0361</name><set>Basic</set></card>
+		<card><name>ANS0362</name><set>Basic</set></card>
+		<card><name>ANS0363</name><set>Basic</set></card>
+		<card><name>ANS0364</name><set>Basic</set></card>
+		<card><name>ANS0365</name><set>Basic</set></card>
+		<card><name>ANS0366</name><set>Basic</set></card>
+		<card><name>ANS0367</name><set>Basic</set></card>
+		<card><name>ANS0368</name><set>Basic</set></card>
+		<card><name>ANS0369</name><set>Basic</set></card>
+		<card><name>ANS0370</name><set>Basic</set></card>
+		<card><name>ANS0371</name><set>Basic</set></card>
+		<card><name>ANS0372</name><set>Basic</set></card>
+		<card><name>ANS0373</name><set>Basic</set></card>
+		<card><name>ANS0374</name><set>Basic</set></card>
+		<card><name>ANS0375</name><set>Basic</set></card>
+		<card><name>ANS0376</name><set>Basic</set></card>
+		<card><name>ANS0377</name><set>Basic</set></card>
+		<card><name>ANS0378</name><set>Basic</set></card>
+		<card><name>ANS0379</name><set>Basic</set></card>
+		<card><name>ANS0380</name><set>Basic</set></card>
+		<card><name>ANS0381</name><set>Basic</set></card>
+		<card><name>ANS0382</name><set>Basic</set></card>
+		<card><name>ANS0383</name><set>Basic</set></card>
+		<card><name>ANS0384</name><set>Basic</set></card>
+		<card><name>ANS0385</name><set>Basic</set></card>
+		<card><name>ANS0386</name><set>Basic</set></card>
+		<card><name>ANS0387</name><set>Basic</set></card>
+		<card><name>ANS0388</name><set>Basic</set></card>
+		<card><name>ANS0389</name><set>Basic</set></card>
+		<card><name>ANS0390</name><set>Basic</set></card>
+		<card><name>ANS0391</name><set>Basic</set></card>
+		<card><name>ANS0392</name><set>Basic</set></card>
+		<card><name>ANS0393</name><set>Basic</set></card>
+		<card><name>ANS0394</name><set>Basic</set></card>
+		<card><name>ANS0395</name><set>Basic</set></card>
+		<card><name>ANS0396</name><set>Basic</set></card>
+		<card><name>ANS0397</name><set>Basic</set></card>
+		<card><name>ANS0398</name><set>Basic</set></card>
+		<card><name>ANS0399</name><set>Basic</set></card>
+		<card><name>ANS0400</name><set>Basic</set></card>
+		<card><name>ANS0401</name><set>Basic</set></card>
+		<card><name>ANS0402</name><set>Basic</set></card>
+		<card><name>ANS0403</name><set>Basic</set></card>
+		<card><name>ANS0404</name><set>Basic</set></card>
+		<card><name>ANS0405</name><set>Basic</set></card>
+		<card><name>ANS0406</name><set>Basic</set></card>
+		<card><name>ANS0407</name><set>Basic</set></card>
+		<card><name>ANS0408</name><set>Basic</set></card>
+		<card><name>ANS0409</name><set>Basic</set></card>
+		<card><name>ANS0410</name><set>Basic</set></card>
+		<card><name>ANS0411</name><set>Basic</set></card>
+		<card><name>ANS0412</name><set>Basic</set></card>
+		<card><name>ANS0413</name><set>Basic</set></card>
+		<card><name>ANS0414</name><set>Basic</set></card>
+		<card><name>ANS0415</name><set>Basic</set></card>
+		<card><name>ANS0416</name><set>Basic</set></card>
+		<card><name>ANS0417</name><set>Basic</set></card>
+		<card><name>ANS0418</name><set>Basic</set></card>
+		<card><name>ANS0419</name><set>Basic</set></card>
+		<card><name>ANS0420</name><set>Basic</set></card>
+		<card><name>ANS0421</name><set>Basic</set></card>
+		<card><name>ANS0422</name><set>Basic</set></card>
+		<card><name>ANS0423</name><set>Basic</set></card>
+		<card><name>ANS0424</name><set>Basic</set></card>
+		<card><name>ANS0425</name><set>Basic</set></card>
+		<card><name>ANS0426</name><set>Basic</set></card>
+		<card><name>ANS0427</name><set>Basic</set></card>
+		<card><name>ANS0877</name><set>Basic</set></card>
+		<card><name>DWANS0001</name><set>Doctor Who</set></card>
+		<card><name>DWANS0002</name><set>Doctor Who</set></card>
+		<card><name>DWANS0003</name><set>Doctor Who</set></card>
+		<card><name>DWANS0004</name><set>Doctor Who</set></card>
+		<card><name>DWANS0005</name><set>Doctor Who</set></card>
+		<card><name>DWANS0006</name><set>Doctor Who</set></card>
+		<card><name>DWANS0007</name><set>Doctor Who</set></card>
+		<card><name>DWANS0008</name><set>Doctor Who</set></card>
+		<card><name>DWANS0009</name><set>Doctor Who</set></card>
+		<card><name>DWANS0010</name><set>Doctor Who</set></card>
+		<card><name>DWANS0011</name><set>Doctor Who</set></card>
+		<card><name>DWANS0012</name><set>Doctor Who</set></card>
+		<card><name>DWANS0013</name><set>Doctor Who</set></card>
+		<card><name>DWANS0014</name><set>Doctor Who</set></card>
+		<card><name>DWANS0015</name><set>Doctor Who</set></card>
+		<card><name>DWANS0016</name><set>Doctor Who</set></card>
+		<card><name>DWANS0017</name><set>Doctor Who</set></card>
+		<card><name>DWANS0018</name><set>Doctor Who</set></card>
+		<card><name>DWANS0019</name><set>Doctor Who</set></card>
+		<card><name>DWANS0020</name><set>Doctor Who</set></card>
+		<card><name>DWANS0021</name><set>Doctor Who</set></card>
+		<card><name>DWANS0022</name><set>Doctor Who</set></card>
+		<card><name>DWANS0023</name><set>Doctor Who</set></card>
+		<card><name>DWANS0024</name><set>Doctor Who</set></card>
+		<card><name>DWANS0025</name><set>Doctor Who</set></card>
+		<card><name>DWANS0026</name><set>Doctor Who</set></card>
+		<card><name>DWANS0027</name><set>Doctor Who</set></card>
+		<card><name>DWANS0028</name><set>Doctor Who</set></card>
+		<card><name>DWANS0029</name><set>Doctor Who</set></card>
+		<card><name>DWANS0030</name><set>Doctor Who</set></card>
+		<card><name>DWANS0031</name><set>Doctor Who</set></card>
+		<card><name>DWANS0032</name><set>Doctor Who</set></card>
+		<card><name>DWANS0033</name><set>Doctor Who</set></card>
+		<card><name>DWANS0034</name><set>Doctor Who</set></card>
+		<card><name>DWANS0035</name><set>Doctor Who</set></card>
+		<card><name>DWANS0036</name><set>Doctor Who</set></card>
+		<card><name>DWANS0037</name><set>Doctor Who</set></card>
+		<card><name>DWANS0038</name><set>Doctor Who</set></card>
+		<card><name>DWANS0039</name><set>Doctor Who</set></card>
+		<card><name>DWANS0040</name><set>Doctor Who</set></card>
+		<card><name>DWANS0041</name><set>Doctor Who</set></card>
+		<card><name>DWANS0042</name><set>Doctor Who</set></card>
+		<card><name>DWANS0043</name><set>Doctor Who</set></card>
+		<card><name>DWANS0044</name><set>Doctor Who</set></card>
+		<card><name>DWANS0045</name><set>Doctor Who</set></card>
+		<card><name>DWANS0046</name><set>Doctor Who</set></card>
+		<card><name>DWANS0047</name><set>Doctor Who</set></card>
+		<card><name>DWANS0048</name><set>Doctor Who</set></card>
+		<card><name>DWANS0049</name><set>Doctor Who</set></card>
+		<card><name>DWANS0050</name><set>Doctor Who</set></card>
+		<card><name>DWANS0051</name><set>Doctor Who</set></card>
+		<card><name>DWANS0052</name><set>Doctor Who</set></card>
+		<card><name>DWANS0053</name><set>Doctor Who</set></card>
+		<card><name>DWANS0054</name><set>Doctor Who</set></card>
+		<card><name>DWANS0055</name><set>Doctor Who</set></card>
+		<card><name>DWANS0056</name><set>Doctor Who</set></card>
+		<card><name>DWANS0057</name><set>Doctor Who</set></card>
+		<card><name>DWANS0058</name><set>Doctor Who</set></card>
+		<card><name>DWANS0059</name><set>Doctor Who</set></card>
+		<card><name>DWANS0060</name><set>Doctor Who</set></card>
+		<card><name>DWANS0061</name><set>Doctor Who</set></card>
+		<card><name>DWANS0062</name><set>Doctor Who</set></card>
+		<card><name>DWANS0063</name><set>Doctor Who</set></card>
+		<card><name>DWANS0064</name><set>Doctor Who</set></card>
+		<card><name>DWANS0065</name><set>Doctor Who</set></card>
+		<card><name>DWANS0066</name><set>Doctor Who</set></card>
+		<card><name>DWANS0067</name><set>Doctor Who</set></card>
+		<card><name>DWANS0068</name><set>Doctor Who</set></card>
+		<card><name>DWANS0069</name><set>Doctor Who</set></card>
+		<card><name>DWANS0070</name><set>Doctor Who</set></card>
+		<card><name>DWANS0071</name><set>Doctor Who</set></card>
+		<card><name>FTSYANS0001</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0002</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0003</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0004</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0005</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0006</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0007</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0008</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0009</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0010</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0011</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0012</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0013</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0014</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0015</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0016</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0017</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0018</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0019</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0020</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0021</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0022</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0023</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0024</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0025</name><set>Fantasy Pack</set></card>
+		<card><name>FTSYANS0026</name><set>Fantasy Pack</set></card>
+		<card><name>GPW0001</name><set>Geek Pack</set></card>
+		<card><name>GPW0002</name><set>Geek Pack</set></card>
+		<card><name>GPW0003</name><set>Geek Pack</set></card>
+		<card><name>GPW0004</name><set>Geek Pack</set></card>
+		<card><name>GPW0005</name><set>Geek Pack</set></card>
+		<card><name>GPW0006</name><set>Geek Pack</set></card>
+		<card><name>GPW0007</name><set>Geek Pack</set></card>
+		<card><name>GPW0008</name><set>Geek Pack</set></card>
+		<card><name>GPW0009</name><set>Geek Pack</set></card>
+		<card><name>GPW0010</name><set>Geek Pack</set></card>
+		<card><name>GPW0011</name><set>Geek Pack</set></card>
+		<card><name>GPW0012</name><set>Geek Pack</set></card>
+		<card><name>GPW0013</name><set>Geek Pack</set></card>
+		<card><name>GPW0014</name><set>Geek Pack</set></card>
+		<card><name>GPW0015</name><set>Geek Pack</set></card>
+		<card><name>GPW0016</name><set>Geek Pack</set></card>
+		<card><name>GPW0017</name><set>Geek Pack</set></card>
+		<card><name>GPW0018</name><set>Geek Pack</set></card>
+		<card><name>GPW0019</name><set>Geek Pack</set></card>
+		<card><name>GPW0020</name><set>Geek Pack</set></card>
+		<card><name>GPW0021</name><set>Geek Pack</set></card>
+		<card><name>GPW0022</name><set>Geek Pack</set></card>
+		<card><name>GPW0023</name><set>Geek Pack</set></card>
+		<card><name>GPW0024</name><set>Geek Pack</set></card>
+		<card><name>ANS0924</name><set>Holiday 2012</set></card>
+		<card><name>ANS0925</name><set>Holiday 2012</set></card>
+		<card><name>ANS0926</name><set>Holiday 2012</set></card>
+		<card><name>ANS0927</name><set>Holiday 2012</set></card>
+		<card><name>ANS0928</name><set>Holiday 2012</set></card>
+		<card><name>ANS0929</name><set>Holiday 2012</set></card>
+		<card><name>ANS0930</name><set>Holiday 2012</set></card>
+		<card><name>ANS0931</name><set>Holiday 2012</set></card>
+		<card><name>ANS0932</name><set>Holiday 2012</set></card>
+		<card><name>ANS0933</name><set>Holiday 2012</set></card>
+		<card><name>ANS0934</name><set>Holiday 2012</set></card>
+		<card><name>ANS0935</name><set>Holiday 2012</set></card>
+		<card><name>ANS0936</name><set>Holiday 2012</set></card>
+		<card><name>ANS0937</name><set>Holiday 2012</set></card>
+		<card><name>ANS0938</name><set>Holiday 2012</set></card>
+		<card><name>ANS0939</name><set>Holiday 2012</set></card>
+		<card><name>ANS0940</name><set>Holiday 2012</set></card>
+		<card><name>ANS0941</name><set>Holiday 2012</set></card>
+		<card><name>ANS0942</name><set>Holiday 2012</set></card>
+		<card><name>ANS0943</name><set>Holiday 2012</set></card>
+		<card><name>ANS0944</name><set>Holiday 2012</set></card>
+		<card><name>ANS0945</name><set>Holiday 2012</set></card>
+		<card><name>ANS0946</name><set>Holiday 2012</set></card>
+		<card><name>ANS0947</name><set>Holiday 2013</set></card>
+		<card><name>ANS0948</name><set>Holiday 2013</set></card>
+		<card><name>ANS0949</name><set>Holiday 2013</set></card>
+		<card><name>ANS0950</name><set>Holiday 2013</set></card>
+		<card><name>ANS0951</name><set>Holiday 2013</set></card>
+		<card><name>ANS0952</name><set>Holiday 2013</set></card>
+		<card><name>ANS0953</name><set>Holiday 2013</set></card>
+		<card><name>ANS0954</name><set>Holiday 2013</set></card>
+		<card><name>ANS0955</name><set>Holiday 2013</set></card>
+		<card><name>ANS0956</name><set>Holiday 2013</set></card>
+		<card><name>ANS0957</name><set>Holiday 2013</set></card>
+		<card><name>ANS0958</name><set>Holiday 2013</set></card>
+		<card><name>ANS0959</name><set>Holiday 2013</set></card>
+		<card><name>ANS0960</name><set>Holiday 2013</set></card>
+		<card><name>ANS0961</name><set>Holiday 2013</set></card>
+		<card><name>ANS0962</name><set>Holiday 2013</set></card>
+		<card><name>ANS0963</name><set>Holiday 2013</set></card>
+		<card><name>ANS0964</name><set>Holiday 2013</set></card>
+		<card><name>ANS0965</name><set>Holiday 2013</set></card>
+		<card><name>ANS0966</name><set>Holiday 2013</set></card>
+		<card><name>ANS0967</name><set>Holiday 2013</set></card>
+		<card><name>HOCANS0001</name><set>House Of Cards</set></card>
+		<card><name>HOCANS0002</name><set>House Of Cards</set></card>
+		<card><name>HOCANS0003</name><set>House Of Cards</set></card>
+		<card><name>HOCANS0004</name><set>House Of Cards</set></card>
+		<card><name>HOCANS0005</name><set>House Of Cards</set></card>
+		<card><name>HOCANS0006</name><set>House Of Cards</set></card>
+		<card><name>HOCANS0007</name><set>House Of Cards</set></card>
+		<card><name>HOCANS0008</name><set>House Of Cards</set></card>
+		<card><name>HOCANS0009</name><set>House Of Cards</set></card>
+		<card><name>HOCANS0010</name><set>House Of Cards</set></card>
+		<card><name>HOCANS0011</name><set>House Of Cards</set></card>
+		<card><name>HOCANS0012</name><set>House Of Cards</set></card>
+		<card><name>HOCANS0013</name><set>House Of Cards</set></card>
+		<card><name>HOCANS0014</name><set>House Of Cards</set></card>
+		<card><name>HOCANS0015</name><set>House Of Cards</set></card>
+		<card><name>HOCANS0016</name><set>House Of Cards</set></card>
+		<card><name>ANS0901</name><set>Science</set></card>
+		<card><name>ANS0902</name><set>Science</set></card>
+		<card><name>ANS0903</name><set>Science</set></card>
+		<card><name>ANS0904</name><set>Science</set></card>
+		<card><name>ANS0905</name><set>Science</set></card>
+		<card><name>ANS0906</name><set>Science</set></card>
+		<card><name>ANS0907</name><set>Science</set></card>
+		<card><name>ANS0908</name><set>Science</set></card>
+		<card><name>ANS0909</name><set>Science</set></card>
+		<card><name>ANS0910</name><set>Science</set></card>
+		<card><name>ANS0911</name><set>Science</set></card>
+		<card><name>ANS0912</name><set>Science</set></card>
+		<card><name>ANS0913</name><set>Science</set></card>
+		<card><name>ANS0914</name><set>Science</set></card>
+		<card><name>ANS0915</name><set>Science</set></card>
+		<card><name>ANS0916</name><set>Science</set></card>
+		<card><name>ANS0917</name><set>Science</set></card>
+		<card><name>ANS0918</name><set>Science</set></card>
+		<card><name>ANS0919</name><set>Science</set></card>
+		<card><name>ANS0920</name><set>Science</set></card>
+		<card><name>ANS0921</name><set>Science</set></card>
+		<card><name>ANS0922</name><set>Science</set></card>
+		<card><name>ANS0923</name><set>Science</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,4 @@
+RECENTDECK0:Everything.dek
+RECENTDECK1:Basic_Fully_Expanded.dek
+RECENTDECK2:Expansions_Only.dek
+RECENTDECK3:Basic.dek

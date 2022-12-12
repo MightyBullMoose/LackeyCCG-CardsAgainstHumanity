@@ -1,0 +1,18 @@
+CardsAgainstHumanity	12-12-22
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/plugins/CardsAgainstHumanity/plugininfo.txt
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/plugins/CardsAgainstHumanity/pluginpreferences.txt
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/plugins/CardsAgainstHumanity/recentdecks.txt
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/plugins/CardsAgainstHumanity/rulebook.pdf
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/plugins/CardsAgainstHumanity/updatelist.txt
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/plugins/CardsAgainstHumanity/version.txt
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/plugins/CardsAgainstHumanity/decks/Basic.dek
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/plugins/CardsAgainstHumanity/decks/Basic_Fully_Expanded.dek
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/plugins/CardsAgainstHumanity/decks/BasicW_Doctor_Who.dek
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/plugins/CardsAgainstHumanity/decks/Everything.dek
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/plugins/CardsAgainstHumanity/decks/Expansions_Only.dek
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/plugins/CardsAgainstHumanity/decks/Main_Expansions.dek
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/plugins/CardsAgainstHumanity/sets/carddata.txt
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/plugins/CardsAgainstHumanity/sets/setimages/cardback.png
+
+CardGeneralURLs:
+https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/sets/setimages/

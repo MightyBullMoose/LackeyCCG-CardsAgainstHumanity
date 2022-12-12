@@ -1,0 +1,66 @@
+<plugin>
+
+<pluginname>cards_against_humanity</pluginname>
+
+<deckzone>
+	<label>Question Pile</label>
+	<shuffle>yes</shuffle>
+	<isshared>yes</isshared>
+	<gamezonetoloadto>Questions</gamezonetoloadto>
+</deckzone>
+<deckzone>
+	<label>Answer Pile</label>
+	<shuffle>yes</shuffle>
+	<isshared>yes</isshared>
+	<gamezonetoloadto>Answers</gamezonetoloadto>
+</deckzone>
+<gamezone>
+	<label>Hand</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Question Pile</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+	<isshared>yes</isshared>
+</gamezone>
+<gamezone>
+	<label>Answer Pile</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+	<isshared>yes</isshared>
+</gamezone>
+<gamezone>
+     <label>Discard</label>
+     <visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+	<isshared>yes</isshared>
+</gamezone>
+<gamezone>
+	<label>Won</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<generalfunction>
+	<label>Draw Question Card</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>shared</sourceowner>
+	<sourcegamezone>Question Pile</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationgamezone>Hand</destinationgamezone>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Draw Answer Card</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>shared</sourceowner>
+	<sourcegamezone>Answer Pile</sourcegamezone>
+	<destinationgamezone>Hand</destinationgamezone>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+
+</plugin>

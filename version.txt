@@ -1,0 +1,9 @@
+<version>
+
+<lastupdateYYMMDD>221212</lastupdateYYMMDD>
+<quality>medium</quality>
+<versionurl>https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainsstHumanity/main/plugins/CardsAgainstHumanity/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainsstHumanity/main/plugins/CardsAgainstHumanity/updatelist.txt</updateurl>
+<message>Share and Enjoy!</message>
+
+</version>

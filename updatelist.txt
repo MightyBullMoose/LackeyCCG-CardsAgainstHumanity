@@ -1,16 +1,16 @@
 CardsAgainstHumanity	12-12-22
-plugins/CardsAgainstHumanity/version.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainsstHumanity/main/plugins/CardsAgainstHumanity/version.txt	41409
-plugins/CardsAgainstHumanity/plugininfo.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainsstHumanity/main/plugins/CardsAgainstHumanity/plugininfo.txt	152198
-plugins/CardsAgainstHumanity/pluginpreferences.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainsstHumanity/main/plugins/CardsAgainstHumanity/pluginpreferences.txt	320448
-plugins/CardsAgainstHumanity/rulebook.pdf	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainsstHumanity/main/plugins/CardsAgainstHumanity/rulebook.pdf	-528426
-plugins/CardsAgainstHumanity/updatelist.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainsstHumanity/main/plugins/CardsAgainstHumanity/updatelist.txt	256153
-plugins/CardsAgainstHumanity/decks/Basic.dek	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainsstHumanity/main/plugins/CardsAgainstHumanity/decks/Basic.dek	2186525
-plugins/CardsAgainstHumanity/decks/Basic_Fully_Expanded.dek	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainsstHumanity/main/plugins/CardsAgainstHumanity/decks/Basic_Fully_Expanded.dek	5142750
-plugins/CardsAgainstHumanity/decks/BasicW_Doctor_Who.dek	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainsstHumanity/main/plugins/CardsAgainstHumanity/decks/BasicW_Doctor_Who.dek	2653723
-plugins/CardsAgainstHumanity/decks/Everything.dek	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainsstHumanity/main/plugins/CardsAgainstHumanity/decks/Everything.dek	6083803
-plugins/CardsAgainstHumanity/decks/Expansions_Only.dek	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainsstHumanity/main/plugins/CardsAgainstHumanity/decks/Expansions_Only.dek	2971171
-plugins/CardsAgainstHumanity/decks/Main_Expansions.dek	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainsstHumanity/main/plugins/CardsAgainstHumanity/decks/Main_Expansions.dek	4543208
-plugins/CardsAgainstHumanity/sets/carddata.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainsstHumanity/main/plugins/CardsAgainstHumanity/sets/carddata.txt	2934990
-plugins/CardsAgainstHumanity/sets/setimages/cardback.png	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainsstHumanity/main/plugins/CardsAgainstHumanity/sets/setimages/cardback.png	-21125
+plugins/CardsAgainstHumanity/version.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/version.txt	41409
+plugins/CardsAgainstHumanity/plugininfo.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/plugininfo.txt	152198
+plugins/CardsAgainstHumanity/pluginpreferences.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/pluginpreferences.txt	320448
+plugins/CardsAgainstHumanity/rulebook.pdf	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/rulebook.pdf	-528426
+plugins/CardsAgainstHumanity/updatelist.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/updatelist.txt	256153
+plugins/CardsAgainstHumanity/decks/Basic.dek	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/decks/Basic.dek	2186525
+plugins/CardsAgainstHumanity/decks/Basic_Fully_Expanded.dek	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/decks/Basic_Fully_Expanded.dek	5142750
+plugins/CardsAgainstHumanity/decks/BasicW_Doctor_Who.dek	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/decks/BasicW_Doctor_Who.dek	2653723
+plugins/CardsAgainstHumanity/decks/Everything.dek	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/decks/Everything.dek	6083803
+plugins/CardsAgainstHumanity/decks/Expansions_Only.dek	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/decks/Expansions_Only.dek	2971171
+plugins/CardsAgainstHumanity/decks/Main_Expansions.dek	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/decks/Main_Expansions.dek	4543208
+plugins/CardsAgainstHumanity/sets/carddata.txt	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/sets/carddata.txt	2934990
+plugins/CardsAgainstHumanity/sets/setimages/cardback.png	https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/sets/setimages/cardback.png	-21125
 CardGeneralURLs:
 https://raw.githubusercontent.com/MightyBullMoose/LackeyCCG-CardsAgainstHumanity/main/sets/setimages/
